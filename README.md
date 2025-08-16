@@ -29,9 +29,9 @@
 
 ### 📈 GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/Ochessi)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Ochessi&show_icons=true&theme=radical)](https://github.com/Ochessi)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/Ochessi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ochessi&layout=compact&theme=radical)](https://github.com/Ochessi)
 
 ### 🔥 My Coding Philosophy
 
