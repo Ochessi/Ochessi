@@ -39,4 +39,4 @@
 
 ### 📫 Let's Connect
 
-[!Email](ochessibrian@gmail.com)
+[Email](ochessibrian@gmail.com)
